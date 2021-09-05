@@ -1,4 +1,5 @@
 /* 
+Link: https://livecodestream.dev/post/15-must-know-javascript-array-methods/
 .some() => checks if one element in an array meets a certain criteria
 
 .every() => checks if all the elements in an array meets a certain criteria

@@ -1,5 +1,5 @@
 //String is anything that is inside a single or double quote
-
+//Link: https://dev.to/frugencefidel/10-javascript-string-methods-you-should-know-4l76
 //1. startsWith() :-> check if String starts with the specific character. "Position" is optional, if not specified, the default value if 0
 //2. endsWith() :-> check if String ends with the specific character. 
 //3. includes() :-> check if a String contains the specific character. It is case sensitive
